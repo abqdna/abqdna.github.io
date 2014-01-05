@@ -94,7 +94,7 @@ $(function() {
                         google.maps.event.trigger(map.map, 'resize');
                         pan();
                         $('.closer').fadeIn();
-                        $('#photos').css({top: $('#map').height() + 10, height: 'auto'});
+                        //$('#photos').css({top: $('#map').height() + 10, height: 'auto'});
                     });
                 }
             });
