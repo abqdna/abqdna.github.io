@@ -47,7 +47,7 @@ $(function() {
             carousel.find('.carousel-inner').append(photo);
             carousel.find('.carousel-indicators').append(indicator);
         }
-        _.each(_.map(address.files, function(file) { return '/static/img/map/' + file; }), addPhoto);
+        _.each(_.map(address.files, function(file) { return '/static/img/' + file; }), addPhoto);
         addPhoto('http://maps.googleapis.com/maps/api/streetview?size=800x800&sensor=false&location=' + address.address, address.files.length, null, 'Image from Google Street View');
         carousel.find('img').click(function() {
             var img = new Image();
@@ -113,7 +113,7 @@ var showPhotos = function() {
             _.each(a.files, function(f) {
                 var div = $('<div>');
                 var img = $('<img>');
-                img.attr({src: '/static/img/map/' + f + '?' + cache_buster});
+                img.attr({src: '/static/img/' + f + '?' + cache_buster});
                 img.css({width: 200, height: 'auto'});
                 div.append(img);
                 div.append($('<span>').text(f));
