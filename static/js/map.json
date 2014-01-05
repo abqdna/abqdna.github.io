@@ -1,0 +1,756 @@
+{
+  "boundary": [
+    [35.093613, -106.668869],
+    [35.093437, -106.667969],
+    [35.093559, -106.667839],
+    [35.094219, -106.667625],
+    [35.095852, -106.667686],
+    [35.095940, -106.667336],
+    [35.098274, -106.667236],
+    [35.097134, -106.665115],
+    [35.096939, -106.664406],
+    [35.096844, -106.663719],
+    [35.096722, -106.662537],
+    [35.096386, -106.661453],
+    [35.095940, -106.660156],
+    [35.095669, -106.658989],
+    [35.095676, -106.657829],
+    [35.095589, -106.656036],
+    [35.095455, -106.654480],
+    [35.095509, -106.652374],
+    [35.095474, -106.652107],
+    [35.091934, -106.652763],
+    [35.089504, -106.653236],
+    [35.089504, -106.654190],
+    [35.087353, -106.654213],
+    [35.087528, -106.656075],
+    [35.087776, -106.657104],
+    [35.086369, -106.657440],
+    [35.086441, -106.658386],
+    [35.087677, -106.660767],
+    [35.088390, -106.662437],
+    [35.089134, -106.663673],
+    [35.089478, -106.664330],
+    [35.091110, -106.665947],
+    [35.093033, -106.668549],
+    [35.093655, -106.668945]
+  ],
+  "addresses": [
+  {
+    "files": [
+      "811 7th.JPG", 
+    "David McCain.jpg"
+      ], 
+    "folder": "7th St., 811 David Mccain", 
+    "coords": {
+      "lat": 35.0928858, 
+      "lng": -106.654036
+    }, 
+    "name": "David McCain", 
+    "address": "811 7th St NW, Albuquerque, NM 87102"
+  }, 
+  {
+    "files": [
+    "Chan & Tamara.JPG", 
+    "Family about 1937.jpg"
+      ], 
+    "folder": "8th 8 St., 1100 Tamara Coombs & Chan Graham", 
+    "coords": {
+      "lat" : 35.0945229,
+      "lng" : -106.6551506
+    }, 
+    "name": "Tamara Coombs & Chan Graham", 
+    "address": "1100 8th St NW, Albuquerque, NM 87102"
+  }, 
+  {
+    "files": [
+      "1020 8th St..JPG", 
+    "house description395.jpg"
+      ], 
+    "folder": "8th st., 1020 Diane Dykkesten", 
+    "coords": {
+      "lat" : 35.094295,
+      "lng" : -106.654982
+    }, 
+    "name": "Diane Dykkesten", 
+    "address": "1020 8th St NW, Albuquerque, NM 87102"
+  }, 
+  {
+    "files": [
+      "900 8th st..jpg", 
+    "9008thA.pdf.jpg", 
+    "Beth Black 1.jpeg", 
+    "Beth Black 2.jpeg", 
+    "house owners396.jpg", 
+    "house owners397.jpg", 
+    "house owners398.jpg", 
+    "Plaque.JPG"
+      ], 
+    "folder": "8th St., 900 Beth Black & Gail Stockman", 
+    "coords": {
+      "lat" : 35.092608,
+      "lng" : -106.655074
+    }, 
+    "name": "Beth Black & Gail Stockman", 
+    "address": "900 8th St NW, Albuquerque, NM 87102"
+  }, 
+  {
+    "files": [
+      "10thSt323.jpg", 
+    "32310thA.pdf.jpg", 
+    "32310thB.pdf.jpg", 
+    "32310thC.pdf.jpg"
+      ], 
+    "folder": "10th st., 323 Khristina & Terry Luton", 
+    "coords": {
+      "lat": 35.088778, 
+      "lng": -106.658418
+    }, 
+    "name": "Khristina & Terry Luton", 
+    "address": "323 10th St NW, Albuquerque, NM 87102"
+  }, 
+  {
+    "files": [
+      ], 
+    "folder": "11th St., 408 Holly Siebert", 
+    "coords": {
+      "lat": 35.089416, 
+      "lng": -106.658812
+    }, 
+    "name": "Holly Siebert", 
+    "address": "408 11th St NW, Albuquerque, NM 87102"
+  }, 
+  {
+    "files": [
+    "415 11th st B.pdf.jpg", 
+    "415 11th st.pdf.jpg"
+      ], 
+    "folder": "11th St., 415  Mary Lebeck", 
+    "coords": {
+      "lat": 35.089651, 
+      "lng": -106.659439
+    }, 
+    "name": "Mary Lebeck", 
+    "address": "415 11th St NW, Albuquerque, NM 87102"
+  }, 
+  {
+    "files": [
+      "516 11 003.jpg", 
+    "516 11th const stages.jpg", 
+    "516 11th Street NW 1.JPG", 
+    "Jim & Leda Clark1.JPG", 
+    "Jim & Leda Clark2.JPG", 
+    "Jim & Leda Clark2.pdf.jpg", 
+    "JIM & LEDA CLARK_Layout 1.pdf-0.jpg", 
+    "JIM & LEDA CLARK_Layout 1.pdf-1.jpg", 
+    "JIM & LEDA CLARK_Layout 1.pdf-2.jpg", 
+    "JIM & LEDA CLARK_Layout 1.pdf-3.jpg", 
+    "JIM & LEDA CLARK_Layout 1.pdf-4.jpg"
+      ], 
+    "folder": "11th St., 516 James & Leda Clark", 
+    "coords": {
+      "lat": 35.090651, 
+      "lng": -106.658526
+    }, 
+    "name": "James & Leda Clark", 
+    "address": "516 11th St NW, Albuquerque, NM 87102"
+  }, 
+  {
+    "files": [
+      "601 11th St..pdf.jpg", 
+    "601 b11th St..JPG"
+      ], 
+    "folder": "11th St., 601 Alice E,. Gresey", 
+    "coords": {
+      "lat": 35.091154, 
+      "lng": -106.659026
+    }, 
+    "name": "Alice E. Gresey", 
+    "address": "601 11th St NW, Albuquerque, NM 87102"
+  }, 
+  {
+    "files": [], 
+    "folder": "11th St., 931 Thomas & Melanie Lewis", 
+    "coords": {
+      "lat": 35.095099, 
+      "lng": -106.657689
+    }, 
+    "name": "Thomas & Melanie Lewis", 
+    "address": "931 11th St NW, Albuquerque, NM 87102"
+  }, 
+  {
+    "files": [
+      "501 11th St..jpg"
+      ], 
+    "folder": "11th St, 501  Anna Muller", 
+    "coords": {
+      "lat": 35.090347, 
+      "lng": -106.659466
+    }, 
+    "name": "Anna Muller", 
+    "address": "501 11th St NW, Albuquerque, NM 87102"
+  }, 
+  {
+    "files": [
+      "12th st, 821.jpg"
+      ], 
+    "folder": "12th St. 821 Elizabeth Garcia", 
+    "coords": {
+      "lat": 35.094816, 
+      "lng": -106.6594609
+    }, 
+    "name": "Elizabeth Garcia", 
+    "address": "821 12th St NW, Albuquerque, NM 87102"
+  }, 
+  {
+    "files": [
+    "Lovelace.JPG"
+      ], 
+    "folder": "12th St., 201", 
+    "coords": {
+      "lat": 35.088746, 
+      "lng": -106.661019
+    }, 
+    "name": "Bond-Lovelace Home", 
+    "address": "201 12th St NW, Albuquerque, NM 87102"
+  }, 
+  {
+    "files": [
+    "21512th.pdf-0.jpg", 
+    "21512th.pdf-1.jpg", 
+    "21512th.pdf-2.jpg", 
+    "Bob Y. close up.jpg", 
+    "Bob Y..JPG", 
+    "Bob Yuhas.JPG"
+      ], 
+    "folder": "12th St., 215 Bob Yuhas", 
+    "coords": {
+      "lat": 35.089235, 
+      "lng": -106.660793
+    }, 
+    "name": "Bob Yuhas", 
+    "address": "215 12th St NW, Albuquerque, NM 87102"
+  }, 
+  {
+    "files": [
+      "21612thA.pdf.jpg"
+      ], 
+    "folder": "12th St., 216 David Pennella & Gerald Bowe", 
+    "coords": {
+      "lat": 35.088992, 
+      "lng": -106.660131
+    }, 
+    "name": "David Pennella & Gerald Bowe", 
+    "address": "216 12th St NW, Albuquerque, NM 87102"
+  }, 
+  {
+    "files": [], 
+    "folder": "12th St., 303 James & Jenny Telles", 
+    "coords": {
+      "lat": 35.089571, 
+      "lng": -106.660696
+    }, 
+    "name": "James & Jenny Telles", 
+    "address": "303 12th St NW, Albuquerque, NM 87102"
+  }, 
+  {
+    "files": [
+      "311 12th street NW - image 1.jpg", 
+    "311 12th street NW - image 2.jpg"
+      ], 
+    "folder": "12th St., 311 Curtis Hunt", 
+    "coords": {
+      "lat": 35.089922, 
+      "lng": -106.660487
+    }, 
+    "name": "Curtis Hunt", 
+    "address": "311 12th St NW, Albuquerque, NM 87102"
+  }, 
+  {
+    "files": [
+      "403 12th St. text.pdf.jpg", 
+    "403 12th St.pdf.jpg"
+      ], 
+    "folder": "12th St., 403 Jim & Susan Foley", 
+    "coords": {
+      "lat": 35.090368, 
+      "lng": -106.660472
+    }, 
+    "name": "Jim & Susan Foley", 
+    "address": "403 12th St NW, Albuquerque, NM 87102"
+  }, 
+  {
+    "files": [
+      "515 12th St. NW Screen Shot  .png", 
+    "Taylors.jpg"
+      ], 
+    "folder": "12th St., 515 Karen & David Taylor", 
+    "coords": {
+      "lat": 35.091918, 
+      "lng": -106.660144
+    }, 
+    "name": "Karen & David Taylor", 
+    "address": "515 12th St NW, Albuquerque, NM 87102"
+  }, 
+  {
+    "files": [
+      "russel janos.JPG"
+      ], 
+    "folder": "13th St., 300 Russel Jannis", 
+    "coords": {
+      "lat": 35.08965, 
+      "lng": -106.6611889
+    }, 
+    "name": "Russel Jannis", 
+    "address": "300 13th St NW, Albuquerque, NM 87102"
+  }, 
+  {
+    "files": [
+    "miram  close up.jpg", 
+    "miram 1.JPG", 
+    "miram 2.JPG"
+      ], 
+    "folder": "14th St. 819 Miriam Ottiz y Pino", 
+    "coords": {
+      "lat": 35.0960034, 
+      "lng": -106.6611257
+    }, 
+    "name": "Miriam Ortiz y Pino", 
+    "address": "819 14th St NW, Albuquerque, NM 87104"
+  }, 
+  {
+    "files": [], 
+    "folder": "14th St., 224 Glenn & Jennifer Foster", 
+    "coords": {
+      "lat": 35.090343, 
+      "lng": -106.662178
+    }, 
+    "name": "Glenn & Jennifer Foster", 
+    "address": "224 14th St NW, Albuquerque, NM 87104"
+  }, 
+  {
+    "files": [
+      "317 14th NW view 1.JPG", 
+    "317 14th NW View 2.JPG", 
+    "317 14th NW.pdf.jpg"
+      ], 
+    "folder": "14th St., 317 Ronal Jacob & Leslie Campbell", 
+    "coords": {
+      "lat": 35.091294, 
+      "lng": -106.66258
+    }, 
+    "name": "Ronald Jacob & Leslie Campbell", 
+    "address": "317 14th St NW, Albuquerque, NM 87104"
+  }, 
+  {
+    "files": [
+      "323 14th St. copy.JPG", 
+    "323 14th st..jpg", 
+    "323 14th St._2.JPG", 
+    "323 14th Street page 1.jpg", 
+    "323 14th Street page 2.jpg", 
+    "DAD copy.JPG", 
+    "DAD.JPG", 
+    "Family group.JPG", 
+    "Grandfather.JPG", 
+    "Mary & sons.JPG", 
+    "Mary copy.jpg", 
+    "Mary' grandparents bw.jpg", 
+    "Mary' grandparents slide copy.jpg", 
+    "Mary' grandparents.JPG", 
+    "Mary.JPG", 
+    "photo copy 2.JPG", 
+    "Sisters.JPG", 
+    "three girls.JPG"
+      ], 
+    "folder": "14th St., 323 Mary F. Bachecha", 
+    "coords": {
+      "lat": 35.09136, 
+      "lng": -106.6625509
+    }, 
+    "name": "Mary F. Bachecha", 
+    "address": "323 14th St NW, Albuquerque, NM 87104"
+  }, 
+  {
+    "files": [
+    "dick & susan 1.pdf.jpg", 
+    "dick & susan 2.jpg", 
+    "Dick&Susan Deichel340.pdf.jpg", 
+    "dick,susan & chewy.pdf.jpg"
+      ], 
+    "folder": "14th St., 508 Dick & Susan Deichel", 
+    "coords": {
+      "lat" : 35.0927539,
+      "lng" : -106.661852
+    }, 
+    "name": "Dick & Susan Deichel", 
+    "address": "508 14th St NW, Albuquerque, NM 87104"
+  }, 
+  {
+    "files": [
+    "723 plaques.JPG", 
+    "723 14th.JPG", 
+    "Chan 001.jpg", 
+    "Gert w Erica.jpeg", 
+    "Hatchell family 2.jpg", 
+    "Hatchell family close up.jpg", 
+    "Hatchell Family.JPG", 
+    "Zackery 1.jpeg", 
+    "Zackery 2.jpeg",
+      "723 14 XI 001.jpg", 
+    "723 14th 001.jpg", 
+    "723 14th II 001.jpg", 
+    "723 14th III 001.jpg", 
+    "723 14th IV 001.jpg", 
+    "723 14th IX 001.jpg", 
+    "723 14th plaques.JPG", 
+    "723 14th V 001.jpg", 
+    "723 14th VI 001.jpg", 
+    "723 14th VII 001.jpg", 
+    "723 14th XII 001.jpg", 
+    "VIII 001.jpg" 
+      ], 
+    "folder": "14th St., 723 Erica & Trevor Hatchell", 
+    "coords": {
+      "lat": 35.095368, 
+      "lng": -106.6616109
+    }, 
+    "name": "Erica & Trevor Hatchell", 
+    "address": "723 14th St NW, Albuquerque, NM 87104"
+  }, 
+  {
+    "files": [
+    "Margret.JPG", 
+    "Mike & Margert Connealy338.pdf.jpg"
+      ], 
+    "folder": "14th St., 801 Mike & Margaret Connealy", 
+    "coords": {
+      "lat": 35.0956649, 
+      "lng": -106.661541
+    }, 
+    "name": "Mike & Margaret Connealy", 
+    "address": "801 14th St NW, Albuquerque, NM 87104"
+  }, 
+  {
+    "files": [
+      ], 
+    "folder": "16th St., 707 Charles M. waghorne", 
+    "coords": {
+      "lat": 35.095179, 
+      "lng": -106.6640369
+    }, 
+    "name": "Charles M. Waghorne", 
+    "address": "707 16th St NW, Albuquerque, NM 87104"
+  }, 
+  {
+    "files": [
+      "12thTijeras.jpg", 
+    "709 16th copy.jpg", 
+    "709 16th.JPG", 
+    "cori.JPG", 
+    "NewMexico '48.pdf-0.jpg", 
+    "NewMexico '48.pdf-1.jpg", 
+    "NewMexico '48.pdf-2.jpg"
+      ], 
+    "folder": "16th st., 709 Cory A. Greenfield", 
+    "coords": {
+      "lat": 35.0953779, 
+      "lng": -106.664049
+    }, 
+    "name": "Cory A. Greenfield", 
+    "address": "709 16th St NW, Albuquerque, NM 87104"
+  }, 
+  {
+    "files": [
+      "Chris Interior.jpg", 
+    "Chris's house.jpg", 
+    "chris.JPG", 
+    "lopez plaque.JPG"
+      ], 
+    "folder": "16th St, 208  Chris Isengard", 
+    "coords": {
+      "lat" : 35.091222,
+      "lng" : -106.664348
+    }, 
+    "name": "Chris Isengard", 
+    "address": "208 16th St NW, Albuquerque, NM 87104"
+  }, 
+  {
+    "files": [
+      "5 Chacon Pl. 1.JPG", 
+    "5 Chacon Pl. 2.JPG", 
+    "5 Chacon Pl.329.pdf.jpg", 
+    "5 ChCON PLACE.jpg"
+      ], 
+    "folder": "Chacon Place,5  Yoshio Okada", 
+    "coords": {
+      "lat": 35.093414, 
+      "lng": -106.665361
+    }, 
+    "name": "Yoshio Okada", 
+    "address": "5 Chacon Pl NW, Albuquerque, NM 87104"
+  }, 
+  {
+    "files": [
+      "2013-10-18 20.37.00.jpg", 
+    "2013-10-18 20.37.48.jpg", 
+    "909 Copper Ave.pdf.jpg", 
+    "909 copper interior333.jpg", 
+    "909 copper interior333.pdf.jpg", 
+    "909 plaque.jpg"
+      ], 
+    "folder": "Copper, 909 Alice Greesey", 
+    "coords": {
+      "lat": 35.086669, 
+      "lng": -106.657863
+    }, 
+    "name": "Alice Greesey", 
+    "address": "909 Copper Ave NW, Albuquerque, NM 87102"
+  }, 
+  {
+    "files": [
+      "dining room.JPG", 
+    "interior 923.JPG", 
+    "Oma Sandoval.jpg", 
+    "Oma' painting.JPG", 
+    "Omas Sandoval.JPG", 
+    "photo.JPG"
+      ], 
+    "folder": "Forrester 923, Oma Sandoval", 
+    "coords": {
+      "lat": 35.09339, 
+      "lng": -106.656671
+    }, 
+    "name": "Oma Sandoval", 
+    "address": "923 Forrester Ave NW, Albuquerque, NM 87102"
+  }, 
+  {
+    "files": [
+      "1011Forrester-0.jpg",
+      "1011Forrester-1.jpg",
+      "1011Forrester-2.jpg",
+      "1011Forrester-3.jpg",
+      "1011Forrester-4.jpg",
+      "1011Forrester-5.jpg",
+      "1011Forrester-6.jpg"
+      ], 
+    "folder": "Forrester, 1011 Bernadette & Rick Miera", 
+    "coords": {
+      "lat": 35.093938, 
+      "lng": -106.656661
+    }, 
+    "name": "Bernadette & Rick Miera", 
+    "address": "1011 Forrester Ave NW, Albuquerque, NM 87102"
+  }, 
+  {
+    "files": [
+      "903 Forrester NW.JPG", 
+    "903 Forrester text.pdf.jpg", 
+    "903 Forrester.JPG"
+      ], 
+    "folder": "Forrester, 903 Tamara Righettni & Bradley Otis", 
+    "coords": {
+      "lat": 35.092841, 
+      "lng": -106.656685
+    }, 
+    "name": "Tamara Righettni & Bradley Otis", 
+    "address": "903 Forrester Ave NW, Albuquerque, NM 87102"
+  }, 
+  {
+    "files": [], 
+    "folder": "Fruit Ave., 905 Joe Sackett & Karen Meyers", 
+    "coords": {
+      "lat": 35.090832, 
+      "lng": -106.656375
+    }, 
+    "name": "Joe Sackett & Karen Meyers", 
+    "address": "905 Fruit Ave NW, Albuquerque, NM 87102"
+  }, 
+  {
+    "files": [
+      "1211 Fruit.JPG", 
+    "1211fruitA.pdf.jpg", 
+    "1211fruitB.pdf.jpg"
+      ], 
+    "folder": "Fruit, 1211 Jacgueline Guilbart", 
+    "coords": {
+      "lat": 35.091378, 
+      "lng": -106.660267
+    }, 
+    "name": "Jacqueline Guilbart", 
+    "address": "1211 Fruit Ave NW, Albuquerque, NM 87102"
+  }, 
+  {
+    "files": [
+      "Claire Sandrin.jpeg", 
+    "clare after.JPG", 
+    "clare before.JPG"
+      ], 
+    "folder": "Granite, 708 Claire Sandrin", 
+    "coords": {
+      "lat": 35.0943951, 
+      "lng": -106.6540847
+    }, 
+    "name": "Claire Sandrin", 
+    "address": "708 Granite Ave NW, Albuquerque, NM 87102"
+  }, 
+  {
+    "files": [], 
+    "folder": "Keleher, 312 Sandra Perez", 
+    "coords": {
+      "lat": 35.0881459, 
+      "lng": -106.6560179
+    }, 
+    "name": "Sandra Perez", 
+    "address": "312 Keleher Ave NW, Albuquerque, NM 87102"
+  }, 
+  {
+    "files": [], 
+    "folder": "Luna, 504 Steven Littlejohn & Karen Foss", 
+    "coords": {
+      "lat": 35.089948, 
+      "lng": -106.656939
+    }, 
+    "name": "Steven Littlejohn & Karen Foss", 
+    "address": "504 Luna Boulevard NW, Albuquerque, NM 87102"
+  }, 
+  {
+    "files": [
+      "1015a.JPG", 
+    "1015b.JPG", 
+    "1015Orchard Pl.1.JPG", 
+    "1015Orchard Pl.2.JPG", 
+    "Breanne Herrera328.pdf.jpg", 
+    "Halloween Costumes.JPG", 
+    "in front of house 1.JPG", 
+    "in front of house 2.JPG", 
+    "Previous Owners.JPG", 
+    "Questions.JPG", 
+    "Step Father.jpg"
+      ], 
+    "folder": "Orchard Pl., 1015 Breanne Herrera", 
+    "coords": {
+      "lat": 35.093064, 
+      "lng": -106.657499
+    }, 
+    "name": "Breanne Herrera", 
+    "address": "1015 Orchard Pl NW, Albuquerque, NM 87102"
+  }, 
+  {
+    "files": [
+      "1211 Roma entry.jpeg", 
+    "1211 Roma NW 1.jpeg", 
+    "1211 Roma NW 2.jpeg", 
+    "1211 Roma plaque.jpeg", 
+    "1211 Roma.JPG", 
+    "door detail.JPG", 
+    "Hesselden plaque.JPG"
+      ], 
+    "folder": "Roma, 1211 Laura Ferrary, Richard Chapman & Elaine Mingus", 
+    "coords": {
+      "lat" : 35.0902806,
+      "lng" : -106.6608798
+    }, 
+    "name": "Laura Ferrary, Richard Chapman, & Elaine Mingus", 
+    "address": "1211 Roma Ave NW, Albuquerque, NM 87102"
+  }, 
+  {
+    "files": [
+    "ric 1.JPG", 
+    "ric 2.JPG", 
+    "ric Higgin.jpg"
+      ], 
+    "folder": "Roma, 1401 Ric Higglnbothom", 
+    "coords": {
+      "lat" : 35.090697,
+      "lng" : -106.662563
+    }, 
+    "name": "Ric Higginbothom", 
+    "address": "1401 Roma Ave NW, Albuquerque, NM 87104"
+  }, 
+  {
+    "files": [
+      "701 Roma.JPG"
+      ], 
+    "folder": "Roma, 701 Tammy Walden", 
+    "coords": {
+      "lat": 35.08977, 
+      "lng": -106.65445
+    }, 
+    "name": "Tammy Walden", 
+    "address": "701 Roma Ave NW, Albuquerque, NM 87102"
+  }, 
+  {
+    "files": [
+      "Rohan clos up.jpg", 
+    "Rohan.JPG"
+      ], 
+    "folder": "Roma, 719 Rowan Wymark", 
+    "coords": {
+      "lat": 35.089675, 
+      "lng": -106.655042
+    }, 
+    "name": "Rowan Wymark", 
+    "address": "719 Roma Ave NW, Albuquerque, NM 87102"
+  }, 
+  {
+    "files": [
+      "901 Roma NW.pdf.jpg", 
+    "901 Roma.pdf.jpg", 
+    "901 Roma389.jpg", 
+    "Who lived in house-1.pdf.jpg", 
+    "Who lived in house.pdf.jpg", 
+    "William B. Lyon.pdf.jpg"
+      ], 
+    "folder": "Roma, 901 Beverly Salas", 
+    "coords": {
+      "lat": 35.090016, 
+      "lng": -106.656273
+    }, 
+    "name": "Beverly Salas", 
+    "address": "901 Roma Ave NW, Albuquerque, NM 87102"
+  }, 
+  {
+    "files": [
+      "C. H. Conner house.jpg"
+      ], 
+    "folder": "Roma, 1113", 
+    "coords": {
+      "lat" : 35.090373,
+      "lng" : -106.65963
+    }, 
+    "name": "C.H. Conner", 
+    "address": "1113 Roma Ave NW, Albuquerque, NM 87102"
+  }, 
+  {
+    "files": [
+      "1123 Tijeras NW side.pdf.jpg", 
+    "1123 Tijeras NW.pdf.jpg", 
+    "1123tijerasI.pdf.jpg", 
+    "A B McGaffey.jpg", 
+    "Group_photo_of_prominent_New_Mexicans.jpg", 
+    "Mad scientists.pdf.jpg"
+      ], 
+    "folder": "Tijeras, 1123 Tom Decker & Tauget Auten", 
+    "coords": {
+      "lat": 35.088625, 
+      "lng": -106.660246
+    }, 
+    "name": "Tom Decker & Tauget Auten", 
+    "address": "1123 Tijeras Ave NW, Albuquerque, NM 87102"
+  }, 
+  {
+    "files": [
+      "1223 Tijeras.JPG", 
+    "charles benzaquen.jpg"
+      ], 
+    "folder": "Tijeras, 1223, Charles Benzaquen", 
+    "coords": {
+      "lat": 35.088837, 
+      "lng": -106.661595
+    }, 
+    "name": "Charles Benzaquen", 
+    "address": "1223 Tijeras Ave NW, Albuquerque, NM 87102"
+  }
+  ]
+}
