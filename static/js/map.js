@@ -32,34 +32,26 @@ $(function() {
         });
     };
 
-    var loadAddress = function(address) {
-        var carousel = $('#photos');
-        carousel.find('.carousel-inner').children().remove();
-        carousel.find('.carousel-indicators').children().remove();
-        var addPhoto = function(file, i, files, caption) {
-            var photo = $('<div class="item">');
-            var img = $('<img>').attr({src: file});
-            var indicator = $('<li data-target="#photos">').attr({'data-slide-to': i});
-            photo.append(img);
-            if (caption) {
-                photo.append('<div class="carousel-caption"><p>' + caption + '</p></div>');
-            }
-            carousel.find('.carousel-inner').append(photo);
-            carousel.find('.carousel-indicators').append(indicator);
-        }
-        _.each(_.map(address.files, function(file) { return '/static/img/' + file; }), addPhoto);
-        addPhoto('http://maps.googleapis.com/maps/api/streetview?size=800x800&sensor=false&location=' + address.address, address.files.length, null, 'Image from Google Street View');
-        carousel.find('img').click(function() {
-            var img = new Image();
-            img.src = this.src;
-            $('#lightbox .modal-body').html(img);
-            $('#lightbox').modal({
-                width: Math.min(img.width, 1200),
-                maxHeight: $(window).height()-200
-            });
+    $('body').on('click', '#photo .item img', function(e) {
+        var img = new Image();
+        img.src = this.src;
+        $('#lightbox .modal-body').html(img);
+        $('#lightbox').modal({
+            width: Math.min(img.width, 1200),
+            maxHeight: $(window).height()-200
         });
+    });
+
+    var loadAddress = function(address) {
+        $('#photos').replaceWith(ich.carousel({
+            photos: _.map(address.files, function(file) { return '/static/img/' + file; })
+        }));
+        var carousel = $('#photos');
         carousel.fadeIn('fast');
         carousel.find('.item').first().addClass('active');
+        carousel.find('.carousel-indicators').children().each(function(i, e) {
+            $(this).attr('data-slide-to', i);
+        });
         carousel.find('.carousel-indicators').children().first().addClass('active');
         carousel.carousel({interval: false});
     };

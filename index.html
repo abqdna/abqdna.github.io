@@ -15,7 +15,26 @@
         <script src="http://maps.google.com/maps/api/js?sensor=true"></script>
         <script src="//cdnjs.cloudflare.com/ajax/libs/gmaps.js/0.4.5/gmaps.min.js"></script>
         <script src="//cdnjs.cloudflare.com/ajax/libs/bootstrap-modal/2.1.0/bootstrap-modal.pack.min.js"></script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/ICanHaz.js/0.10.3/ICanHaz.min.js"></script>
         <script src="static/js/map.js"></script>
+        <script id="carousel" type="text/html">
+        <div id="photos" class="carousel slide hide">
+            <ol class="carousel-indicators">
+                {{#photos}}
+                <li data-target="#photos"></li>
+                {{/photos}}
+            </ol>
+            <div class="carousel-inner">
+                {{#photos}}
+                <div class="item">
+                    <img src="{{.}}">
+                </div>
+                {{/photos}}
+            </div>
+            <a class="carousel-control left" href="#photos" data-slide="prev">&lsaquo;</a>
+            <a class="carousel-control right" href="#photos" data-slide="next">&rsaquo;</a>
+        </div>
+        </script>
     </head>
     <body>
         <div id="map"></div>
@@ -37,14 +56,7 @@
             </div>
         </div>
         <div class="closer muted hide"><a class="close"><i class="icon-remove"></i></a></div>
-        <div id="photos" class="carousel slide hide">
-            <ol class="carousel-indicators">
-            </ol>
-            <div class="carousel-inner">
-            </div>
-            <a class="carousel-control left" href="#photos" data-slide="prev">&lsaquo;</a>
-            <a class="carousel-control right" href="#photos" data-slide="next">&rsaquo;</a>
-        </div>
+        <div id="photos"></div>
         <div id="lightbox" class="modal hide fade">
             <div class="modal-body">
                 <img>
