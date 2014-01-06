@@ -76,7 +76,7 @@ $(function() {
                 click: function() {
                     var pan = function() {
                         map.map.panTo(new google.maps.LatLng(address.coords.lat + 0.001, address.coords.lng));
-                    }
+                    };
                     pan();
                     $('.container').fadeOut();
                     $('#map').animate({height: '33%'}, function() {
@@ -112,5 +112,5 @@ var showPhotos = function() {
                 $('body').append(div);
             });
         });
-    })
-}
+    });
+};
