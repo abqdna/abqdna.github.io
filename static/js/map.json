@@ -38,8 +38,7 @@
   "addresses": [
   {
     "files": [
-      "811 7th.JPG", 
-    "David McCain.jpg"
+        "DavidMccain.jpg"
       ], 
     "folder": "7th St., 811 David Mccain", 
     "coords": {
@@ -79,14 +78,9 @@
   }, 
   {
     "files": [
-      "900 8th st..jpg", 
-    "9008thA.pdf.jpg", 
-    "Beth Black 1.jpeg", 
-    "Beth Black 2.jpeg", 
-    "house owners396.jpg", 
-    "house owners397.jpg", 
-    "house owners398.jpg", 
-    "Plaque.JPG"
+      "BethBlackGailStockman-0.jpg",
+      "BethBlackGailStockman-1.jpg",
+      "BethBlackGailStockman-2.jpg"
       ], 
     "folder": "8th St., 900 Beth Black & Gail Stockman", 
     "coords": {
@@ -211,12 +205,9 @@
   }, 
   {
     "files": [
-    "21512th.pdf-0.jpg", 
-    "21512th.pdf-1.jpg", 
-    "21512th.pdf-2.jpg", 
-    "Bob Y. close up.jpg", 
-    "Bob Y..JPG", 
-    "Bob Yuhas.JPG"
+        "BobYuhas-0.jpg",
+        "BobYuhas-1.jpg",
+        "BobYuhas-2.jpg"
       ], 
     "folder": "12th St., 215 Bob Yuhas", 
     "coords": {
@@ -518,13 +509,13 @@
   }, 
   {
     "files": [
-      "1011Forrester-0.jpg",
-      "1011Forrester-1.jpg",
-      "1011Forrester-2.jpg",
-      "1011Forrester-3.jpg",
-      "1011Forrester-4.jpg",
-      "1011Forrester-5.jpg",
-      "1011Forrester-6.jpg"
+      "MieraFamily-0.jpg",
+      "MieraFamily-1.jpg",
+      "MieraFamily-2.jpg",
+      "MieraFamily-3.jpg",
+      "MieraFamily-4.jpg",
+      "MieraFamily-5.jpg",
+      "MieraFamily-6.jpg"
       ], 
     "folder": "Forrester, 1011 Bernadette & Rick Miera", 
     "coords": {

@@ -11,10 +11,20 @@ html, body {
   font-family: Georgia, Times New Roman, serif;
   padding: 0.5em 0;
   border-radius: 10px;
+  margin-bottom: 1em;
 }
 
 #title em {
   color: black;
+}
+
+#title h2, #title p {
+    margin: 0;
+}
+
+#title a {
+    color: white;
+    text-decoration: underline;
 }
 
 #map {
