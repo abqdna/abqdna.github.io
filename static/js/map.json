@@ -241,8 +241,7 @@
   }, 
   {
     "files": [
-      "311 12th street NW - image 1.jpg", 
-    "311 12th street NW - image 2.jpg"
+        "CurtisHunt.jpg"
       ], 
     "folder": "12th St., 311 Curtis Hunt", 
     "coords": {
@@ -330,31 +329,17 @@
   }, 
   {
     "files": [
-      "323 14th St. copy.JPG", 
-    "323 14th st..jpg", 
-    "323 14th St._2.JPG", 
-    "323 14th Street page 1.jpg", 
-    "323 14th Street page 2.jpg", 
-    "DAD copy.JPG", 
-    "DAD.JPG", 
-    "Family group.JPG", 
-    "Grandfather.JPG", 
-    "Mary & sons.JPG", 
-    "Mary copy.jpg", 
-    "Mary' grandparents bw.jpg", 
-    "Mary' grandparents slide copy.jpg", 
-    "Mary' grandparents.JPG", 
-    "Mary.JPG", 
-    "photo copy 2.JPG", 
-    "Sisters.JPG", 
-    "three girls.JPG"
+        "MaryFrancisBachicha-0.jpg",
+        "MaryFrancisBachicha-1.jpg",
+        "MaryFrancisBachicha-2.jpg",
+        "MaryFrancisBachicha-3.jpg"
       ], 
     "folder": "14th St., 323 Mary F. Bachecha", 
     "coords": {
       "lat": 35.09136, 
       "lng": -106.6625509
     }, 
-    "name": "Mary F. Bachecha", 
+    "name": "Mary F. Bachicha", 
     "address": "323 14th St NW, Albuquerque, NM 87104"
   }, 
   {
@@ -374,27 +359,10 @@
   }, 
   {
     "files": [
-    "723 plaques.JPG", 
-    "723 14th.JPG", 
-    "Chan 001.jpg", 
-    "Gert w Erica.jpeg", 
-    "Hatchell family 2.jpg", 
-    "Hatchell family close up.jpg", 
-    "Hatchell Family.JPG", 
-    "Zackery 1.jpeg", 
-    "Zackery 2.jpeg",
-      "723 14 XI 001.jpg", 
-    "723 14th 001.jpg", 
-    "723 14th II 001.jpg", 
-    "723 14th III 001.jpg", 
-    "723 14th IV 001.jpg", 
-    "723 14th IX 001.jpg", 
-    "723 14th plaques.JPG", 
-    "723 14th V 001.jpg", 
-    "723 14th VI 001.jpg", 
-    "723 14th VII 001.jpg", 
-    "723 14th XII 001.jpg", 
-    "VIII 001.jpg" 
+        "HatchellFamily-0.jpg",
+        "HatchellFamily-1.jpg",
+        "HatchellFamily-2.jpg",
+        "HatchellFamily-3.jpg"
       ], 
     "folder": "14th St., 723 Erica & Trevor Hatchell", 
     "coords": {
@@ -448,10 +416,9 @@
   }, 
   {
     "files": [
-      "Chris Interior.jpg", 
-    "Chris's house.jpg", 
-    "chris.JPG", 
-    "lopez plaque.JPG"
+      "ChrisIsengard-0.jpg",
+      "ChrisIsengard-2.jpg",
+      "ChrisIsengard-3.jpg"
       ], 
     "folder": "16th St, 208  Chris Isengard", 
     "coords": {
@@ -565,9 +532,8 @@
   }, 
   {
     "files": [
-      "Claire Sandrin.jpeg", 
-    "clare after.JPG", 
-    "clare before.JPG"
+        "ClaireSandrin-0.jpg",
+        "ClaireSandrin-1.jpg"
       ], 
     "folder": "Granite, 708 Claire Sandrin", 
     "coords": {
