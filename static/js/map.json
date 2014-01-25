@@ -169,7 +169,10 @@
   }, 
   {
     "files": [
-      "501 11th St..jpg"
+      "AnnaMuller-0.jpg",
+      "AnnaMuller-1.jpg",
+      "AnnaMuller-2.jpg",
+      "AnnaMuller-3.jpg"
       ], 
     "folder": "11th St, 501  Anna Muller", 
     "coords": {
@@ -253,8 +256,9 @@
   }, 
   {
     "files": [
-      "403 12th St. text.pdf.jpg", 
-    "403 12th St.pdf.jpg"
+      "JimSusanFoley-0.jpg",
+      "JimSusanFoley-1.jpg",
+      "JimSusanFoley-2.jpg"
       ], 
     "folder": "12th St., 403 Jim & Susan Foley", 
     "coords": {
@@ -374,8 +378,7 @@
   }, 
   {
     "files": [
-    "Margret.JPG", 
-    "Mike & Margert Connealy338.pdf.jpg"
+      "MikeMargaretConnealy.jpg"
       ], 
     "folder": "14th St., 801 Mike & Margaret Connealy", 
     "coords": {
@@ -494,16 +497,14 @@
   }, 
   {
     "files": [
-      "903 Forrester NW.JPG", 
-    "903 Forrester text.pdf.jpg", 
-    "903 Forrester.JPG"
+      "OtisRighettini.jpg"
       ], 
     "folder": "Forrester, 903 Tamara Righettni & Bradley Otis", 
     "coords": {
       "lat": 35.092841, 
       "lng": -106.656685
     }, 
-    "name": "Tamara Righettni & Bradley Otis", 
+    "name": "Tamara Righettini & Bradley Otis", 
     "address": "903 Forrester Ave NW, Albuquerque, NM 87102"
   }, 
   {
@@ -565,17 +566,9 @@
   }, 
   {
     "files": [
-      "1015a.JPG", 
-    "1015b.JPG", 
-    "1015Orchard Pl.1.JPG", 
-    "1015Orchard Pl.2.JPG", 
-    "Breanne Herrera328.pdf.jpg", 
-    "Halloween Costumes.JPG", 
-    "in front of house 1.JPG", 
-    "in front of house 2.JPG", 
-    "Previous Owners.JPG", 
-    "Questions.JPG", 
-    "Step Father.jpg"
+      "BreanneHerrera-0.jpg",
+      "BreanneHerrera-1.jpg",
+      "BreanneHerrera-2.jpg"
       ], 
     "folder": "Orchard Pl., 1015 Breanne Herrera", 
     "coords": {
@@ -605,9 +598,9 @@
   }, 
   {
     "files": [
-    "ric 1.JPG", 
-    "ric 2.JPG", 
-    "ric Higgin.jpg"
+      "RicHiggenbothum-0.jpg",
+      "RicHiggenbothum-1.jpg",
+      "RicHiggenbothum-2.jpg"
       ], 
     "folder": "Roma, 1401 Ric Higglnbothom", 
     "coords": {
