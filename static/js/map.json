@@ -232,7 +232,10 @@
     "address": "216 12th St NW, Albuquerque, NM 87102"
   }, 
   {
-    "files": [], 
+    "files": [
+        "JamesJennyTelles-0.jpg",
+        "JamesJennyTelles-1.jpg"
+        ], 
     "folder": "12th St., 303 James & Jenny Telles", 
     "coords": {
       "lat": 35.089571, 
@@ -294,9 +297,7 @@
   }, 
   {
     "files": [
-    "miram  close up.jpg", 
-    "miram 1.JPG", 
-    "miram 2.JPG"
+        "MiriamOrtizYPino.jpg"
       ], 
     "folder": "14th St. 819 Miriam Ottiz y Pino", 
     "coords": {
@@ -579,13 +580,8 @@
   }, 
   {
     "files": [
-      "1211 Roma entry.jpeg", 
-    "1211 Roma NW 1.jpeg", 
-    "1211 Roma NW 2.jpeg", 
-    "1211 Roma plaque.jpeg", 
-    "1211 Roma.JPG", 
-    "door detail.JPG", 
-    "Hesselden plaque.JPG"
+        "ChapmanMingus-0.jpg",
+        "ChapmanMingus-1.jpg"
       ], 
     "folder": "Roma, 1211 Laura Ferrary, Richard Chapman & Elaine Mingus", 
     "coords": {
