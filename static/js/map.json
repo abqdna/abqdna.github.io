@@ -65,8 +65,7 @@
   }, 
   {
     "files": [
-      "1020 8th St..JPG", 
-    "house description395.jpg"
+      "DianeDykkesten.jpg"
       ], 
     "folder": "8th st., 1020 Diane Dykkesten", 
     "coords": {
@@ -92,17 +91,17 @@
   }, 
   {
     "files": [
-      "10thSt323.jpg", 
-    "32310thA.pdf.jpg", 
-    "32310thB.pdf.jpg", 
-    "32310thC.pdf.jpg"
+      "KrisTerryLinton-0.jpg",
+      "KrisTerryLinton-1.jpg",
+      "KrisTerryLinton-2.jpg",
+      "KrisTerryLinton-3.jpg"
       ], 
     "folder": "10th st., 323 Khristina & Terry Luton", 
     "coords": {
       "lat": 35.088778, 
       "lng": -106.658418
     }, 
-    "name": "Khristina & Terry Luton", 
+    "name": "Kris & Terry Linton", 
     "address": "323 10th St NW, Albuquerque, NM 87102"
   }, 
   {
@@ -624,8 +623,7 @@
   }, 
   {
     "files": [
-      "Rohan clos up.jpg", 
-    "Rohan.JPG"
+      "RowanWymark.jpg"
       ], 
     "folder": "Roma, 719 Rowan Wymark", 
     "coords": {
@@ -666,12 +664,8 @@
   }, 
   {
     "files": [
-      "1123 Tijeras NW side.pdf.jpg", 
-    "1123 Tijeras NW.pdf.jpg", 
-    "1123tijerasI.pdf.jpg", 
-    "A B McGaffey.jpg", 
-    "Group_photo_of_prominent_New_Mexicans.jpg", 
-    "Mad scientists.pdf.jpg"
+      "DeckerAuten-0.jpg",
+      "DeckerAuten-1.jpg"
       ], 
     "folder": "Tijeras, 1123 Tom Decker & Tauget Auten", 
     "coords": {
