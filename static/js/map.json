@@ -157,16 +157,6 @@
     "address": "601 11th St NW, Albuquerque, NM 87102"
   }, 
   {
-    "files": [], 
-    "folder": "11th St., 931 Thomas & Melanie Lewis", 
-    "coords": {
-      "lat": 35.095099, 
-      "lng": -106.657689
-    }, 
-    "name": "Thomas & Melanie Lewis", 
-    "address": "931 11th St NW, Albuquerque, NM 87102"
-  }, 
-  {
     "files": [
       "AnnaMuller-0.jpg",
       "AnnaMuller-1.jpg",
@@ -390,17 +380,6 @@
   }, 
   {
     "files": [
-      ], 
-    "folder": "16th St., 707 Charles M. waghorne", 
-    "coords": {
-      "lat": 35.095179, 
-      "lng": -106.6640369
-    }, 
-    "name": "Charles M. Waghorne", 
-    "address": "707 16th St NW, Albuquerque, NM 87104"
-  }, 
-  {
-    "files": [
       "12thTijeras.jpg", 
     "709 16th copy.jpg", 
     "709 16th.JPG", 
@@ -430,21 +409,6 @@
     }, 
     "name": "Chris Isengard", 
     "address": "208 16th St NW, Albuquerque, NM 87104"
-  }, 
-  {
-    "files": [
-      "5 Chacon Pl. 1.JPG", 
-    "5 Chacon Pl. 2.JPG", 
-    "5 Chacon Pl.329.pdf.jpg", 
-    "5 ChCON PLACE.jpg"
-      ], 
-    "folder": "Chacon Place,5  Yoshio Okada", 
-    "coords": {
-      "lat": 35.093414, 
-      "lng": -106.665361
-    }, 
-    "name": "Yoshio Okada", 
-    "address": "5 Chacon Pl NW, Albuquerque, NM 87104"
   }, 
   {
     "files": [
@@ -508,16 +472,6 @@
     "address": "903 Forrester Ave NW, Albuquerque, NM 87102"
   }, 
   {
-    "files": [], 
-    "folder": "Fruit Ave., 905 Joe Sackett & Karen Meyers", 
-    "coords": {
-      "lat": 35.090832, 
-      "lng": -106.656375
-    }, 
-    "name": "Joe Sackett & Karen Meyers", 
-    "address": "905 Fruit Ave NW, Albuquerque, NM 87102"
-  }, 
-  {
     "files": [
       "1211 Fruit.JPG", 
     "1211fruitA.pdf.jpg", 
@@ -543,16 +497,6 @@
     }, 
     "name": "Claire Sandrin", 
     "address": "708 Granite Ave NW, Albuquerque, NM 87102"
-  }, 
-  {
-    "files": [], 
-    "folder": "Keleher, 312 Sandra Perez", 
-    "coords": {
-      "lat": 35.0881459, 
-      "lng": -106.6560179
-    }, 
-    "name": "Sandra Perez", 
-    "address": "312 Keleher Ave NW, Albuquerque, NM 87102"
   }, 
   {
     "files": [], 
