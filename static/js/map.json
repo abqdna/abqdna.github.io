@@ -326,7 +326,9 @@
         "MaryFrancisBachicha-0.jpg",
         "MaryFrancisBachicha-1.jpg",
         "MaryFrancisBachicha-2.jpg",
-        "MaryFrancisBachicha-3.jpg"
+        "MaryFrancisBachicha-3.jpg",
+        "MaryFrancisBachicha-4.jpg",
+        "MaryFrancisBachicha-5.jpg"
       ], 
     "folder": "14th St., 323 Mary F. Bachecha", 
     "coords": {
@@ -627,6 +629,19 @@
     }, 
     "name": "Charles Benzaquen", 
     "address": "1223 Tijeras Ave NW, Albuquerque, NM 87102"
+  },
+  {
+      "files": [
+          "VidalSantillanes-0.jpg",
+          "VidalSantillanes-1.jpg",
+          "VidalSantillanes-2.jpg"
+      ],
+      "coords": {
+          "lat":35.0959512,
+          "lng":-106.6641593
+      },
+      "name": "Vidal Santillanes",
+      "address": "1607 Granite Ave SW, Albuquerque, NM 87104"
   }
   ]
 }
