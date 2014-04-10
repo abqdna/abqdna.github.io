@@ -3,6 +3,9 @@ var layers = {};
 var cache_buster = Math.ceil(Math.random() * 1000000000);
 
 $(function() {
+    $('#help').mouseover(function(e) {
+        $(this).fadeOut();
+    });
     map = new GMaps({
         el: '#map',
         lat: 35.092,
